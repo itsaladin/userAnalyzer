@@ -1,0 +1,9 @@
+{
+    "recommendations": [
+        "naumovs.color-highlight",
+        "esbenp.prettier-vscode",
+        "dbaeumer.vscode-eslint",
+        "xabikos.javascriptsnippets",
+        "github.copilot"
+    ]
+}
